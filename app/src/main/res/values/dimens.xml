@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Toolbar -->
+    <dimen name="toolbar_elevation">4dp</dimen>
+
+    <!-- preferenceFragment -->
+    <dimen name="preference_fragment_padding_bottom">0dp</dimen>
+    <dimen name="preference_fragment_padding_side">16dp</dimen>
+    <integer name="preference_fragment_scrollbarStyle">0x02000000</integer>
+
+    <!-- Defaults -->
+    <dimen name="activity_horizontal_margin">6dp</dimen>
+    <dimen name="activity_vertical_margin">6dp</dimen>
+
+    <bool name="isTablet">false</bool>
+    <bool name="isWideTablet">false</bool>
+
+    <!-- DetailLayouts -->
+    <dimen name="detail_margin">0dp</dimen>
+
+    <!-- Drawer -->
+    <dimen name="drawer_width">304dp</dimen>
+
+    <!-- SoundCloud playback view !-->
+
+    <!-- SoundCloud notification dimens !-->
+
+    <!-- (Overview) Card -->
+    <dimen name="card_margin">5dp</dimen>
+    <dimen name="card_radius">1dp</dimen>
+    <dimen name="card_image_height">160dp</dimen>
+    <dimen name="card_title_padding">10dp</dimen>
+    <dimen name="card_title">16sp</dimen>
+    <dimen name="card_width_overview">240dp</dimen>
+
+</resources>

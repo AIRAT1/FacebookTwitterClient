@@ -1,3 +1,133 @@
 <resources>
     <string name="app_name">FacebookTwitterClient</string>
+
+    <!-- API keys -->
+    <string name="twitter_api_consumer_key">GB3sFGfD53gj4PDLK8vdQ0FhY</string>
+    <string name="twitter_api_consumer_secret_key">bZGkRCwO9e3j7ozsg9oTcPqY61lCfVc1sS3FF2Fv2Kf7r8gUKR</string>
+    <string name="google_server_key"></string>
+    <string name="google_android_key"></string>
+    <string name="facebook_access_token">106960250044539|r72fCRKKlMomfDtq-RXjWBJZ8xI</string>
+
+    <!-- About text, you can use basic html, stay between [ and ] -->
+    <string name="about_text"><![CDATA[
+    <b>Version 1.0</b>
+    <br><br>Thank you for downloading our app<br><br>
+    <i>By MyCompany&#174;</i>
+    ]]></string>s
+
+    <!-- Enter your Google Play billing details to enable In-App purchases -->
+    <string name="google_play_license"></string>
+    <string name="product_id"></string>
+
+    <!-- Enter a ADMOB ID if you would like to display ads-->
+    <string name="admob_banner_id"></string>
+    <string name="admob_interstitial_id"></string>
+
+    <!-- Strings for optional translation below this line -->
+
+    <!-- twitter section -->
+
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="profile_image">Profile image</string>
+    <string name="message">Message</string>
+
+    <string name="tweet_share_header">\'s tweet</string>
+
+    <!-- rss -->
+    <string name="ok">Ok</string>
+
+    <!-- youtube -->
+    <string name="play_button">Play</string>
+
+    <!--  webview  -->
+    <string name="webview_title">Web</string>
+
+    <string name="web_share_begin">"Look what I saw in the \""</string>
+    <string name="web_share_end">"\"app: "</string>
+
+    <!-- favorites -->
+    <string name="item_del_text">Очистить \"Избранное\"?</string>
+    <string name="item_del_confirmation">Да</string>
+    <string name="no_favorites">Здесь отображаются материалы, добавленные в \"Избранное\"</string>
+    <string name="favorite_success">Материал добавлен в \"Избранное\"</string>
+    <string name="favorite_duplicate">Материал уже добавлен в \"Избранное\"</string>
+    <string name="favorite_menu_delete">Удалить из избранного</string>
+
+    <!-- settings -->
+    <string name="settings_general_summary">Username and password information</string>
+    <string name="settings_general">General</string>
+
+    <string name="settings_showmenu_summary">Yes/No</string>
+    <string name="settings_showmenu">Show side menu on start</string>
+
+    <string name="settings_fontsize_summary">Preferred text size for articles and posts</string>
+    <string name="settings_fontsize">Text size</string>
+
+    <string name="settings_fontsize_xl">Extra Large</string>
+    <string name="settings_fontsize_l">Large</string>
+    <string name="settings_fontsize_m">Default</string>
+    <string name="settings_fontsize_s">Small</string>
+    <string name="settings_fontsize_xs">Extra Small</string>
+
+    <string name="settings_other_summary">Other information</string>
+    <string name="settings_other">Other</string>
+
+    <string name="settings_aboutus_summary">Information about our application</string>
+    <string name="settings_aboutus">About</string>
+
+    <string name="settings_rate_summary">Help other users enjoy this application</string>
+    <string name="settings_rate">Rate this app</string>
+
+    <string name="settings_billing_summary">Manage your In-App purchases</string>
+    <string name="settings_billing">In-App Products.</string>
+
+    <string name="settings_purchase_summary">Removes ads and unlocks more content</string>
+    <string name="settings_purchase">Unlock extra features</string>
+
+    <string name="settings_restore_purchase_success">Previous purchases have been restored.</string>
+    <string name="settings_purchase_success">Previous purchases have been restored.</string>
+    <string name="settings_purchase_fail">Purchase failed.</string>
+
+    <string name="dialog_purchase_title">Content locked.</string>
+    <string name="dialog_purchase">In order to view this content, you need to unlock the full version by making a one time purchase.\n\nThis will also remove advertisements throughout the app.</string>
+
+    <!-- media viewer and radio-->
+    <string name="file_audio">Audio</string>
+    <string name="file_video">Video</string>
+    <string name="file_image">Image</string>
+    <string name="downloadmanager_disabled">Download manager needs to be enabled</string>
+
+    <!-- tumblr -->
+    <string name="save">Save</string>
+    <!-- general-->
+    <string name="settings">Настройки</string>
+    <string name="favorites">Избранное</string>
+    <string name="invalid_configuration">Configuration could not be loaded</string>
+    <string name="share_header">Поделиться</string>
+    <string name="about_header">О приложении</string>
+    <string name="favorite_button">Добавить в Избранное</string>
+    <string name="open_button">Открыть</string>
+    <string name="loading">Loading..</string>
+    <string name="opening_video">Opening video</string>
+    <string name="opening_audio">Opening audio</string>
+    <string name="downloading">Downloading..</string>
+    <string name="no_results">No results</string>
+    <string name="cancel">Cancel</string>
+    <string name="comments">Комментарии</string>
+    <string name="share">Share</string>
+    <string name="refresh">Обновить</string>
+    <string name="already_loading">We are already loading some new content!</string>
+    <string name="intent_failed">Failed to start external application.</string>
+
+    <string name="drawer_open">Menu opened</string>
+    <string name="drawer_close">Menu closed</string>
+
+    <string name="permissions_required">You need to accept all required permissions to access this content.</string>
+
+    <!-- Connection dialogs -->
+    <string name="dialog_connection_title">Servers unreachable</string>
+    <string name="dialog_connection_description">We can not connect with our APIs.\n\nPlease ensure that you have set up your API keys and parameters as documented!</string>
+    <string name="dialog_internet_title">No internet</string>
+    <string name="dialog_internet_description">You seem to have no internet connection, this app requires internet to get the latest content.\n\nYou can continue to see your favorite/offline items!</string>
 </resources>

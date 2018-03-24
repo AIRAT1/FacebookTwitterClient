@@ -1,0 +1,37 @@
+[
+
+
+  {
+    "title":"Twitter",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Twitter",
+        "provider":"twitter",
+        "arguments":[
+          "Android"
+        ]
+      }
+    ]
+  },
+
+  {
+    "title":"Facebook",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Facebook",
+        "provider":"facebook",
+        "arguments":[
+          "649188628486342"
+        ]
+      }
+    ]
+  }
+
+
+]
